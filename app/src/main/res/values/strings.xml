@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">POC-Different-Language</string>
+    <string name="title">My Application</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
